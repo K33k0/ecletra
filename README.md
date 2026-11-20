@@ -25,3 +25,5 @@ GitHub reference: https://docs.github.com/en/pages/configuring-a-custom-domain-f
 The ribbon is extracted from the supplied brand guide. The phone illustration is explicitly labelled as an illustrative product preview. Upcoming products are not presented as released.
 
 Copyright © 2026 Ecletra. All rights reserved. No open-source licence is granted.
+
+The Inter font (`dist/assets/fonts/inter-latin.woff2`) is self-hosted and licensed under the SIL Open Font License 1.1 (https://github.com/rsms/inter). `dist/404.html`, `robots.txt` and `sitemap.xml` are served by GitHub Pages; update `lastmod` in the sitemap when content changes.
